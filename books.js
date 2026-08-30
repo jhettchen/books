@@ -11,6 +11,6 @@ const BOOKS = [
     author: "Christopher Lasch",
     cover: "covers/culture-of-narcissism.jpg.jpg",
     status: "active",
-    blurb: "Currently reading. A sharp, sometimes bleak diagnosis of American self-obsession -- more relevant now than when it was written."
+    blurb: "Start here to understand every problem with mass culture. Foundational post-left reading."
   }
 ];
