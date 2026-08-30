@@ -7,10 +7,9 @@ A simple black-and-white book list site. No backend, no database — just static
 Open `books.js` and add a new entry to the BOOKS array, following the same format
 as the existing one. Set `status` to "active" or "archive". Give it a unique `slug`.
 
-For cover images, the easiest option is Open Library's cover API:
-`https://covers.openlibrary.org/b/isbn/YOUR-ISBN-L.jpg`
-(swap in the book's ISBN). Otherwise just link to any image URL, or drop image
-files into the `books/` folder and point `cover` at e.g. `books/mycover.jpg`.
+For cover images, save the cover image yourself (e.g. from the book's page on
+Amazon or Google Images) and upload it into the `covers/` folder, then point
+`cover` at e.g. `covers/mycover.jpg`.
 
 ## How to put this online (GitHub Pages)
 
