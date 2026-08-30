@@ -61,7 +61,6 @@ main {
   aspect-ratio: 2 / 3;
   object-fit: cover;
   display: block;
-  filter: grayscale(100%) contrast(1.1);
   border: 1px solid #000;
 }
 
@@ -88,7 +87,6 @@ main {
   width: 260px;
   aspect-ratio: 2 / 3;
   object-fit: cover;
-  filter: grayscale(100%) contrast(1.1);
   border: 1px solid #000;
 }
 
