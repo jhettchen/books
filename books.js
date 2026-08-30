@@ -12,5 +12,13 @@ const BOOKS = [
     cover: "covers/culture-of-narcissism.jpg.jpg",
     status: "active",
     blurb: "Start here to understand every problem with mass culture. Foundational post-left reading."
+  },
+  {
+    slug: "interpretation-of-dreams",
+    title: "The Interpretation of Dreams",
+    author: "Sigmund Freud",
+    cover: "covers/Interpretation-Of-Dreams.jpg",
+    status: "archive",
+    blurb: ""
   }
 ];
