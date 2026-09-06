@@ -129,7 +129,7 @@ const BOOKS = [
     title: "The Symposium",
     author: "Plato",
     year: "c. 385 BC",
-    cover: "",
+    cover: "covers/Symposium.png",
     status: "archive",
     blurb: ""
   },
