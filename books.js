@@ -84,7 +84,7 @@ const BOOKS = [
     title: "Three Essays on the Theory of Sexuality",
     author: "Sigmund Freud",
     year: 1905,
-    cover: "",
+    cover: "covers/Three-Essays-on-the-Theory-of-Sexuality.png",
     status: "archive",
     blurb: ""
   },
