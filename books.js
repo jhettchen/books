@@ -93,7 +93,7 @@ const BOOKS = [
     title: "Platform",
     author: "Michel Houellebecq",
     year: 2001,
-    cover: "",
+    cover: "covers/Platform.png",
     status: "archive",
     blurb: ""
   },
