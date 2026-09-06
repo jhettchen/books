@@ -25,8 +25,17 @@ function renderGrid(containerId, books) {
   });
 }
 
-const active = BOOKS.filter(b => b.status === "active");
-const archive = BOOKS.filter(b => b.status === "archive");
+function lastName(author) {
+  const parts = author.trim().split(/\s+/);
+  return parts[parts.length - 1].toLowerCase();
+}
+
+function byAuthorLastName(a, b) {
+  return lastName(a.author).localeCompare(lastName(b.author));
+}
+
+const active = BOOKS.filter(b => b.status === "active").sort(byAuthorLastName);
+const archive = BOOKS.filter(b => b.status === "archive").sort(byAuthorLastName);
 
 renderGrid("active-grid", active);
 renderGrid("archive-grid", archive);
