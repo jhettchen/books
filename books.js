@@ -111,7 +111,7 @@ const BOOKS = [
     title: "Submission",
     author: "Michel Houellebecq",
     year: 2015,
-    cover: "",
+    cover: "covers/Submission.png",
     status: "archive",
     blurb: ""
   },
