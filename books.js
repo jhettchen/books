@@ -57,7 +57,7 @@ const BOOKS = [
     title: "The Myth of Sisyphus",
     author: "Albert Camus",
     year: 1942,
-    cover: "",
+    cover: "covers/Myth-of-Sisyphus.png",
     status: "archive",
     blurb: ""
   },
