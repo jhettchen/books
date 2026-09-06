@@ -120,7 +120,7 @@ const BOOKS = [
     title: "The Bell Jar",
     author: "Sylvia Plath",
     year: 1963,
-    cover: "",
+    cover: "covers/Bell-Jar.jpg",
     status: "archive",
     blurb: ""
   },
