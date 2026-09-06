@@ -32,5 +32,14 @@ const BOOKS = [
     cover: "covers/Females.jpg",
     status: "archive",
     blurb: ""
+  },
+  {
+    slug: "american-psycho",
+    title: "American Psycho",
+    author: "Bret Easton Ellis",
+    year: 1991,
+    cover: "covers/American-Psycho.jpg",
+    status: "archive",
+    blurb: ""
   }
 ];
