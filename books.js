@@ -174,7 +174,7 @@ const BOOKS = [
     title: "Welcome to the Desert of the Real",
     author: "Slavoj Žižek",
     year: 2002,
-    cover: "",
+    cover: "covers/Welcome-to-the-Desert-of-the-Real.png",
     status: "archive",
     blurb: ""
   },

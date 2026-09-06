@@ -83,11 +83,15 @@ main {
   padding-top: 40px;
 }
 
-.book-detail img,
+.book-detail img {
+  width: 260px;
+  height: auto;
+  border: 1px solid #000;
+}
+
 .book-detail .cover-placeholder {
   width: 260px;
   aspect-ratio: 2 / 3;
-  object-fit: cover;
   border: 1px solid #000;
 }
 
