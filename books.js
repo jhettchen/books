@@ -242,6 +242,15 @@ const BOOKS = [
     blurb: ""
   },
   {
+    slug: "against-interpretation",
+    title: "Against Interpretation and Other Essays",
+    author: "Susan Sontag",
+    year: 1966,
+    cover: "covers/Against-Interpretation.jpg",
+    status: "planned",
+    blurb: ""
+  },
+  {
     slug: "sailor-who-fell-from-grace-with-the-sea",
     title: "The Sailor Who Fell from Grace with the Sea",
     author: "Yukio Mishima",
