@@ -242,6 +242,15 @@ const BOOKS = [
     blurb: ""
   },
   {
+    slug: "dirtbag",
+    title: "Dirtbag: Essays",
+    author: "Amber A'Lee Frost",
+    year: 2023,
+    cover: "",
+    status: "planned",
+    blurb: ""
+  },
+  {
     slug: "against-interpretation",
     title: "Against Interpretation and Other Essays",
     author: "Susan Sontag",
