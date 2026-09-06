@@ -240,5 +240,14 @@ const BOOKS = [
     cover: "",
     status: "planned",
     blurb: ""
+  },
+  {
+    slug: "sailor-who-fell-from-grace-with-the-sea",
+    title: "The Sailor Who Fell from Grace with the Sea",
+    author: "Yukio Mishima",
+    year: 1963,
+    cover: "",
+    status: "planned",
+    blurb: ""
   }
 ];
