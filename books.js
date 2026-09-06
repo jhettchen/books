@@ -213,5 +213,14 @@ const BOOKS = [
     cover: "covers/Tell-Them-I-Said-No.png",
     status: "planned",
     blurb: ""
+  },
+  {
+    slug: "between-men",
+    title: "Between Men: English Literature and Male Homosocial Desire",
+    author: "Eve Kosofsky Sedgwick",
+    year: 1985,
+    cover: "",
+    status: "planned",
+    blurb: ""
   }
 ];
