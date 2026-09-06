@@ -6,9 +6,15 @@ function renderGrid(containerId, books) {
     link.href = `book.html?slug=${encodeURIComponent(book.slug)}`;
     link.className = "book-cover-link";
 
-    const img = document.createElement("img");
-    img.src = book.cover;
-    img.alt = book.title;
+    let cover;
+    if (book.cover) {
+      cover = document.createElement("img");
+      cover.src = book.cover;
+      cover.alt = book.title;
+    } else {
+      cover = document.createElement("div");
+      cover.className = "cover-placeholder";
+    }
 
     const caption = document.createElement("div");
     caption.className = "cover-caption";
@@ -18,7 +24,7 @@ function renderGrid(containerId, books) {
     author.className = "cover-author";
     author.textContent = book.author;
 
-    link.appendChild(img);
+    link.appendChild(cover);
     link.appendChild(caption);
     link.appendChild(author);
     container.appendChild(link);
