@@ -41,5 +41,14 @@ const BOOKS = [
     cover: "covers/American-Psycho.jpg",
     status: "archive",
     blurb: ""
+  },
+  {
+    slug: "ethics-and-infinity",
+    title: "Ethics and Infinity",
+    author: "Emmanuel Levinas",
+    year: 1982,
+    cover: "covers/Ethics-and-Infinity.jpg",
+    status: "archive",
+    blurb: ""
   }
 ];
