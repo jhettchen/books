@@ -219,7 +219,7 @@ const BOOKS = [
     title: "Between Men: English Literature and Male Homosocial Desire",
     author: "Eve Kosofsky Sedgwick",
     year: 1985,
-    cover: "",
+    cover: "covers/Between-Men.jpg",
     status: "planned",
     blurb: ""
   },
