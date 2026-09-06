@@ -77,7 +77,7 @@ const BOOKS = [
     year: 1930,
     cover: "covers/Civilization-and-Its-Discontents.png",
     status: "archive",
-    blurb: ""
+    blurb: "“A small minority are enabled by their constitution to find happiness, in spite of everything, along the path of love. But far-reaching mental changes in the function of love are necessary before this can happen. These people make themselves independent of their object's acquiescence by displacing what they mainly value from being loved on to loving; they protect themselves against the loss of the object by directing their love, not to single objects but to all men alike; and they avoid uncertainties and disappointments of genital love by turning away from its sexual aims and transforming the instinct into an impulse with an inhibited aim.”"
   },
   {
     slug: "three-essays-on-the-theory-of-sexuality",
@@ -194,7 +194,7 @@ const BOOKS = [
     year: 2018,
     cover: "covers/Bronze-Age-Mindset.png",
     status: "archive",
-    blurb: ""
+    blurb: "“Many times I've wished, not so much that I was someone else, nor that I was immortal, but that I could live many different lives simultaneously and not be limited to being only one thing.”"
   },
   {
     slug: "revolt-of-the-elites",
