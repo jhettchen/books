@@ -1,6 +1,6 @@
 # Reading List Site
 
-A list of books.
+Reading for autistic truth seekers.
 
 ## Files
 
