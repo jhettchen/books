@@ -1,5 +1,5 @@
 // Edit this file to add, remove, or update books.
-// status: "active" or "archive"
+// status: "active", "archive", or "planned" (books you intend to read)
 // slug: used in the URL, keep it lowercase-with-dashes, must be unique
 // year: publication year, shown on the book's detail page
 // cover: path or URL to the cover image; leave as "" if you don't have one yet
@@ -194,6 +194,15 @@ const BOOKS = [
     year: 2018,
     cover: "covers/Bronze-Age-Mindset.png",
     status: "archive",
+    blurb: ""
+  },
+  {
+    slug: "revolt-of-the-elites",
+    title: "The Revolt of the Elites and the Betrayal of Democracy",
+    author: "Christopher Lasch",
+    year: 1995,
+    cover: "covers/Revolt-of-the-Elites.jpg",
+    status: "planned",
     blurb: ""
   }
 ];

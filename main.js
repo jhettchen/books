@@ -42,6 +42,8 @@ function byAuthorLastName(a, b) {
 
 const active = BOOKS.filter(b => b.status === "active").sort(byAuthorLastName);
 const archive = BOOKS.filter(b => b.status === "archive").sort(byAuthorLastName);
+const planned = BOOKS.filter(b => b.status === "planned").sort(byAuthorLastName);
 
 renderGrid("active-grid", active);
 renderGrid("archive-grid", archive);
+renderGrid("planned-grid", planned);
