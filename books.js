@@ -231,5 +231,14 @@ const BOOKS = [
     cover: "",
     status: "planned",
     blurb: ""
+  },
+  {
+    slug: "sexual-personae",
+    title: "Sexual Personae: Art and Decadence from Nefertiti to Emily Dickinson",
+    author: "Camille Paglia",
+    year: 1990,
+    cover: "",
+    status: "planned",
+    blurb: ""
   }
 ];
