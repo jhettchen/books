@@ -228,7 +228,7 @@ const BOOKS = [
     title: "Play It as It Lays",
     author: "Joan Didion",
     year: 1970,
-    cover: "",
+    cover: "covers/Play-It-As-It-Lays.jpg",
     status: "planned",
     blurb: ""
   },
