@@ -246,7 +246,7 @@ const BOOKS = [
     title: "Serotonin",
     author: "Michel Houellebecq",
     year: 2019,
-    cover: "",
+    cover: "covers/Serotonin.jpg",
     status: "planned",
     blurb: ""
   },
@@ -255,7 +255,7 @@ const BOOKS = [
     title: "Dirtbag: Essays",
     author: "Amber A'Lee Frost",
     year: 2023,
-    cover: "",
+    cover: "covers/Dirtbag.jpg",
     status: "planned",
     blurb: ""
   },
