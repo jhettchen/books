@@ -147,7 +147,7 @@ const BOOKS = [
     title: "The Catcher in the Rye",
     author: "J.D. Salinger",
     year: 1951,
-    cover: "",
+    cover: "covers/Catcher-in-the-Rye.png",
     status: "archive",
     blurb: ""
   },
