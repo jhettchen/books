@@ -23,7 +23,7 @@ const BOOKS = [
     year: 1899,
     cover: "covers/Interpretation-Of-Dreams.jpg",
     status: "active",
-    blurb: ""
+    blurb: "“Dreams are never concerned with trivialities; we do not allow our sleep to be disturbed by trifles.”"
   },
   {
     slug: "females",
