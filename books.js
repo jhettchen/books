@@ -242,6 +242,15 @@ const BOOKS = [
     blurb: ""
   },
   {
+    slug: "serotonin",
+    title: "Serotonin",
+    author: "Michel Houellebecq",
+    year: 2019,
+    cover: "",
+    status: "planned",
+    blurb: ""
+  },
+  {
     slug: "dirtbag",
     title: "Dirtbag: Essays",
     author: "Amber A'Lee Frost",
