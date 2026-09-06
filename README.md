@@ -1,6 +1,6 @@
 # Reading List Site
 
-A simple book list site.
+A list of books.
 
 ## Files
 
