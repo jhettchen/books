@@ -246,7 +246,7 @@ const BOOKS = [
     title: "The Sailor Who Fell from Grace with the Sea",
     author: "Yukio Mishima",
     year: 1963,
-    cover: "",
+    cover: "covers/Sailor-Who-Fell-From-Grace-With-The-Sea.png",
     status: "planned",
     blurb: ""
   }
