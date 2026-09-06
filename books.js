@@ -102,7 +102,7 @@ const BOOKS = [
     title: "The Elementary Particles",
     author: "Michel Houellebecq",
     year: 1998,
-    cover: "",
+    cover: "covers/Elementary-Particles.png",
     status: "archive",
     blurb: ""
   },
