@@ -66,7 +66,7 @@ const BOOKS = [
     title: "Famesick",
     author: "Lena Dunham",
     year: 2026,
-    cover: "",
+    cover: "covers/Famesick.png",
     status: "archive",
     blurb: ""
   },
