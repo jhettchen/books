@@ -75,7 +75,7 @@ const BOOKS = [
     title: "Civilization and Its Discontents",
     author: "Sigmund Freud",
     year: 1930,
-    cover: "",
+    cover: "covers/Civilization-and-Its-Discontents.png",
     status: "archive",
     blurb: ""
   },
