@@ -156,7 +156,7 @@ const BOOKS = [
     title: "Slaughterhouse-Five",
     author: "Kurt Vonnegut",
     year: 1969,
-    cover: "",
+    cover: "covers/Slaughterhouse-Five.png",
     status: "archive",
     blurb: ""
   },
