@@ -204,5 +204,14 @@ const BOOKS = [
     cover: "covers/Revolt-of-the-Elites.jpg",
     status: "planned",
     blurb: ""
+  },
+  {
+    slug: "tell-them-i-said-no",
+    title: "Tell Them I Said No",
+    author: "Martin Herbert",
+    year: 2016,
+    cover: "covers/Tell-Them-I-Said-No.png",
+    status: "planned",
+    blurb: ""
   }
 ];
