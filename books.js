@@ -9,7 +9,7 @@ const BOOKS = [
     slug: "culture-of-narcissism",
     title: "The Culture of Narcissism",
     author: "Christopher Lasch",
-    cover: "covers/culture-of-narcissism.jpg",
+    cover: "covers/Culture-of-Narcissism.jpg",
     status: "active",
     blurb: "Start here to understand every problem with mass culture. Foundational post-left reading."
   },
