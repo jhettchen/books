@@ -186,5 +186,14 @@ const BOOKS = [
     cover: "",
     status: "archive",
     blurb: ""
+  },
+  {
+    slug: "bronze-age-mindset",
+    title: "Bronze Age Mindset",
+    author: "Bronze Age Pervert",
+    year: 2018,
+    cover: "covers/Bronze-Age-Mindset.png",
+    status: "archive",
+    blurb: ""
   }
 ];
