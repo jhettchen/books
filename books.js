@@ -183,7 +183,7 @@ const BOOKS = [
     title: "Heaven in Disorder",
     author: "Slavoj Žižek",
     year: 2021,
-    cover: "",
+    cover: "covers/Heaven-in-Disorder.png",
     status: "archive",
     blurb: ""
   },
