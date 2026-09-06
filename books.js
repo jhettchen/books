@@ -104,7 +104,7 @@ const BOOKS = [
     year: 1998,
     cover: "covers/Elementary-Particles.png",
     status: "archive",
-    blurb: ""
+    blurb: "“Humor won’t save you; it doesn’t really do anything at all. You can look at life ironically for years, maybe decades; there are people who seem to go through most of their lives seeing the funny side, but in the end, life always breaks your heart. Doesn’t matter how brave you are, how reserved, or how much you’ve developed a sense of humor, you still end up with your heart broken. That’s when you stop laughing. In the end there’s just the cold, the silence and the loneliness. In the end, there’s only death.”"
   },
   {
     slug: "submission",
