@@ -138,7 +138,7 @@ const BOOKS = [
     title: "100 Boyfriends",
     author: "Brontez Purnell",
     year: 2021,
-    cover: "",
+    cover: "covers/100-Boyfriends.png",
     status: "archive",
     blurb: ""
   },
