@@ -165,7 +165,7 @@ const BOOKS = [
     title: "The Painted Word",
     author: "Tom Wolfe",
     year: 1975,
-    cover: "",
+    cover: "covers/The-Painted-Word.png",
     status: "archive",
     blurb: ""
   },
