@@ -22,7 +22,7 @@ const BOOKS = [
     author: "Sigmund Freud",
     year: 1899,
     cover: "covers/Interpretation-Of-Dreams.jpg",
-    status: "archive",
+    status: "active",
     blurb: ""
   },
   {
