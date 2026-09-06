@@ -6,6 +6,7 @@ A simple black-and-white book list site. No backend, no database — just static
 
 Open `books.js` and add a new entry to the BOOKS array, following the same format
 as the existing one. Set `status` to "active" or "archive". Give it a unique `slug`.
+Set `year` to the book's publication year (shown on its detail page).
 
 For cover images, save the cover image yourself (e.g. from the book's page on
 Amazon or Google Images) and upload it into the `covers/` folder, then point

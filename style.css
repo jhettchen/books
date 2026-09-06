@@ -106,11 +106,9 @@ main {
   margin-bottom: 16px;
 }
 
-.status-tag {
-  display: inline-block;
-  border: 1px solid #000;
-  padding: 4px 10px;
-  font-size: 12px;
+.book-info p#book-year {
+  font-size: 14px;
+  color: #333;
   margin-bottom: 20px;
 }
 
