@@ -32,7 +32,7 @@ const BOOKS = [
     year: 2019,
     cover: "covers/Females.jpg",
     status: "archive",
-    blurb: ""
+    blurb: "“Everyone is female, and everyone hates it.”"
   },
   {
     slug: "american-psycho",
