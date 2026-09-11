@@ -1,7 +1,5 @@
 # Reading List Site
 
-Reading for autistic truth seekers.
-
 ## Files
 
 - `index.html` / `main.js` — home page, renders the ACTIVE/ARCHIVE/PLANNED grids from `books.js`
