@@ -30,7 +30,7 @@ const BOOKS = [
     title: "The New Criterion, Vol. 42, No. 2 (October 2023)",
     author: "The New Criterion",
     year: 2023,
-    cover: "",
+    cover: "covers/New-Criterion-Vol-42-No-2.jpg",
     status: "active",
     blurb: ""
   },
