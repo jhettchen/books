@@ -26,6 +26,15 @@ const BOOKS = [
     blurb: "“Dreams are never concerned with trivialities; we do not allow our sleep to be disturbed by trifles.”"
   },
   {
+    slug: "new-criterion-vol-42-no-2",
+    title: "The New Criterion, Vol. 42, No. 2 (October 2023)",
+    author: "The New Criterion",
+    year: 2023,
+    cover: "",
+    status: "active",
+    blurb: ""
+  },
+  {
     slug: "females",
     title: "Females",
     author: "Andrea Long Chu",
