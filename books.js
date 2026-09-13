@@ -269,6 +269,15 @@ const BOOKS = [
     blurb: ""
   },
   {
+    slug: "hannibal",
+    title: "Hannibal",
+    author: "Thomas Harris",
+    year: 1999,
+    cover: "",
+    status: "planned",
+    blurb: ""
+  },
+  {
     slug: "sailor-who-fell-from-grace-with-the-sea",
     title: "The Sailor Who Fell from Grace with the Sea",
     author: "Yukio Mishima",
