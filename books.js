@@ -75,7 +75,7 @@ const BOOKS = [
     title: "Being and Time",
     author: "Martin Heidegger",
     year: 1927,
-    cover: "",
+    cover: "covers/Being-and-Time.jpg",
     status: "archive",
     blurb: ""
   },
