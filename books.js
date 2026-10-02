@@ -26,15 +26,6 @@ const BOOKS = [
     blurb: "“Dreams are never concerned with trivialities; we do not allow our sleep to be disturbed by trifles.”"
   },
   {
-    slug: "new-criterion-vol-42-no-2",
-    title: "The New Criterion, Vol. 42, No. 2 (October 2023)",
-    author: "The New Criterion",
-    year: 2023,
-    cover: "covers/New-Criterion-Vol-42-No-2.jpg",
-    status: "active",
-    blurb: ""
-  },
-  {
     slug: "females",
     title: "Females",
     author: "Andrea Long Chu",
@@ -76,6 +67,15 @@ const BOOKS = [
     author: "Lena Dunham",
     year: 2026,
     cover: "covers/Famesick.png",
+    status: "archive",
+    blurb: ""
+  },
+  {
+    slug: "being-and-time",
+    title: "Being and Time",
+    author: "Martin Heidegger",
+    year: 1927,
+    cover: "",
     status: "archive",
     blurb: ""
   },
