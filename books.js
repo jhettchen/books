@@ -278,6 +278,15 @@ const BOOKS = [
     blurb: ""
   },
   {
+    slug: "bonfire-of-the-vanities",
+    title: "The Bonfire of the Vanities",
+    author: "Tom Wolfe",
+    year: 1987,
+    cover: "covers/Bonfire-of-the-Vanities.jpg",
+    status: "planned",
+    blurb: ""
+  },
+  {
     slug: "hannibal",
     title: "Hannibal",
     author: "Thomas Harris",
